@@ -1,2 +1,2 @@
 # Mzwandile-Victor-Blaai
-African Crisis
+African Crisis & Applied machine learning
